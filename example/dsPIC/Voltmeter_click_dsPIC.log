@@ -1,0 +1,13 @@
+0	1	mikroCdsPIC.exe -MSF -DBG -pP24EP512GU810 -GC -DL -SSA -O11111114 -fo8 -N"C:\Users\Corey\Documents\Projects\Voltmeter\dsPIC\Voltmeter_click_dsPIC.mcpds" -SP"C:\C4W\Mikroelektronika\mikroC PRO for dsPIC\Defs\" -SP"C:\C4W\Mikroelektronika\mikroC PRO for dsPIC\Uses\" -SP"C:\Users\Corey\Documents\Projects\Voltmeter\dsPIC\" "Voltmeter_click_dsPIC.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays_ep.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_SPI_123_p24fj.mcl" "__Lib_UART_1234_p24_p33.mcl" "__Lib_PPS_p24EP512GU810.mcl"	 
+diagnostics: 0	121	Loading...	 
+diagnostics: 0	122	Compilation Started	Voltmeter_click_dsPIC.c
+diagnostics: 126	123	Compiled Successfully	Voltmeter_click_dsPIC.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)	Used RX (bytes): 32 (100%)   Free RX (bytes): 0 (0%)
+hint: 0	1144	Static RAM (bytes): 133   Dynamic RAM (bytes): 28538	Static RAM (bytes): 133   Dynamic RAM (bytes): 28538
+hint: 0	1144	Used ROM (bytes): 5956 (2%)  Free ROM (bytes): 344252 (98%)	Used ROM (bytes): 5956 (2%)  Free ROM (bytes): 344252 (98%)
+diagnostics: 0	125	Project Linked Successfully	Voltmeter_click_dsPIC.mcpds
+hint: 0	1004	COFF file successfully generated	COFF file successfully generated
+diagnostics: 0	128	Linked in 1953 ms	 
+diagnostics: 0	129	Project 'Voltmeter_click_dsPIC.mcpds' completed: 2593 ms	 
+diagnostics: 0	103	Finished successfully: 27 Sep 2016, 17:11:45	Voltmeter_click_dsPIC.mcpds

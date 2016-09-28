@@ -1,0 +1,12 @@
+0	1	mikroCFT90x.exe -MSF -DBG -p FT900 -BIN -DL -SSA -O11111114 -fo100 -N"C:\Users\Corey\Documents\Projects\Voltmeter\FT90\Voltmeter_click_FT90.mcpf9" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for FT90x\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for FT90x\uses\" -SP"C:\Users\Corey\Documents\Projects\Voltmeter\FT90\" "Voltmeter_click_FT90.c" "__Lib_Delays.emcl" "__Lib_System.emcl" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_GPIO.emcl" "__Lib_CString.emcl" "__Lib_Conversions.emcl" "__Lib_UART.emcl" "__Lib_SPI.emcl"	 
+diagnostics: 0	122	Compilation Started	Voltmeter_click_FT90.c
+diagnostics: 87	123	Compiled Successfully	Voltmeter_click_FT90.c
+warning: 78	1512	variable 'buffer' might not have been initialized	Voltmeter_click_FT90.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RX: 20 (62%)   Free RX: 12 (38%)	Used RX: 20 (62%)   Free RX: 12 (38%)
+hint: 0	1144	Static RAM (bytes): 323   Dynamic RAM (bytes): 65201	Static RAM (bytes): 323   Dynamic RAM (bytes): 65201
+hint: 0	1144	Used ROM (bytes): 11762 (4%)  Free ROM (bytes): 250382 (96%)	Used ROM (bytes): 11762 (4%)  Free ROM (bytes): 250382 (96%)
+diagnostics: 0	125	Project Linked Successfully	Voltmeter_click_FT90.mcpf9
+diagnostics: 0	128	Linked in 63 ms	 
+diagnostics: 0	129	Project 'Voltmeter_click_FT90.mcpf9' completed: 203 ms	 
+diagnostics: 0	103	Finished successfully: 27 Sep 2016, 17:46:45	Voltmeter_click_FT90.mcpf9

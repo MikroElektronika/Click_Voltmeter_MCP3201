@@ -1,0 +1,11 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F107VC -BIN -LHF -DL -SSA -O11111114 -fo72 -N"C:\Users\Corey\Documents\Projects\Voltmeter\ARM\Voltmeter_ARM.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\" -SP"C:\Users\Corey\Documents\Projects\Voltmeter\ARM\" "Voltmeter_ARM.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_105_107.emcl" "__Lib_GPIO_32F10x_Defs.emcl" "__Lib_GPIO_32F10x.emcl" "__Lib_CString.emcl" "__Lib_Conversions.emcl" "__Lib_ADC_12_32F10x_16ch.emcl" "__Lib_SPI_123.emcl" "__Lib_UART_123_45.emcl"	 
+diagnostics: 0	122	Compilation Started	Voltmeter_ARM.c
+diagnostics: 95	123	Compiled Successfully	Voltmeter_ARM.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 143   Dynamic RAM (bytes): 65389	Static RAM (bytes): 143   Dynamic RAM (bytes): 65389
+hint: 0	1144	Used ROM (bytes): 5553 (2%)  Free ROM (bytes): 256591 (98%)	Used ROM (bytes): 5553 (2%)  Free ROM (bytes): 256591 (98%)
+diagnostics: 0	125	Project Linked Successfully	Voltmeter_ARM.mcpar
+diagnostics: 0	128	Linked in 187 ms	 
+diagnostics: 0	129	Project 'Voltmeter_ARM.mcpar' completed: 343 ms	 
+diagnostics: 0	103	Finished successfully: 27 Sep 2016, 14:26:36	Voltmeter_ARM.mcpar

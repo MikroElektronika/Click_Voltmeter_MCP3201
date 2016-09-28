@@ -1,0 +1,13 @@
+0	1	mikroCPIC32.exe -MSF -DBG -pP32MX795F512L -DL -SSA -EBASE 0x9FC01000 -INTDEF MV_SRS7_IS32 -O11111114 -fo8 -N"C:\Users\Corey\Documents\Projects\Voltmeter\PIC32\Voltmeter_click_PIC32.mcp32" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC32\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC32\Uses\" -SP"C:\Users\Corey\Documents\Projects\Voltmeter\PIC32\" "Voltmeter_click_PIC32.c" "__Lib_CP0.emcl" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_System.emcl" "__Lib_SoftResetDma.emcl" "__Lib_Delays.emcl" "__Lib_CString.emcl" "__Lib_Conversions.emcl" "__Lib_SPI_1234.emcl" "__Lib_UART_123456.emcl"	 
+diagnostics: 0	122	Compilation Started	Voltmeter_click_PIC32.c
+diagnostics: 96	123	Compiled Successfully	Voltmeter_click_PIC32.c
+warning: 87	1512	variable 'buffer' might not have been initialized	Voltmeter_click_PIC32.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RX: 25 (78%)   Free RX: 7 (22%)	Used RX: 25 (78%)   Free RX: 7 (22%)
+hint: 0	1144	Static RAM (bytes): 133   Dynamic RAM (bytes): 130933	Static RAM (bytes): 133   Dynamic RAM (bytes): 130933
+hint: 0	1144	Used ROM (bytes): 4741 (1%)  Free ROM (bytes): 519547 (99%)	Used ROM (bytes): 4741 (1%)  Free ROM (bytes): 519547 (99%)
+hint: 0	1144	Used BOOTROM (bytes): 320 (3%)  Free BOOTROM (bytes): 11953 (97%)	Used BOOTROM (bytes): 320 (3%)  Free BOOTROM (bytes): 11953 (97%)
+diagnostics: 0	125	Project Linked Successfully	Voltmeter_click_PIC32.mcp32
+diagnostics: 0	128	Linked in 187 ms	 
+diagnostics: 0	129	Project 'Voltmeter_click_PIC32.mcp32' completed: 344 ms	 
+diagnostics: 0	103	Finished successfully: 27 Sep 2016, 16:13:45	Voltmeter_click_PIC32.mcp32
